@@ -28,8 +28,8 @@ git clone https://github.com/yourusername/GeminiProVision-ATS.git
 2. Set up your environment.
 ```
 cd GeminiProVision-ATS
-python venv venv
-venv/bin/activate
+python -m venv venv
+venv/Scripts/bin/activate
 pip install -r requirements.txt
 
 ```
