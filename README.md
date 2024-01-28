@@ -18,6 +18,9 @@ Welcome to an advanced Applicant Tracking System (ATS) using Gemini Vision Pro, 
 - Increased Job Prospects: Improve your chances of landing your dream job by presenting a resume tailored to the specific needs of employers.🌟🎯
 
 ## Getting Started
+
+**Note: There will two python file(app_vision.py and app_text.py) you must run the app_text.py file as it can read multiple pages from the PDF and is more optimized**
+
 1. Clone the repository.
 
 ```
