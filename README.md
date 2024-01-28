@@ -19,7 +19,7 @@ Welcome to an advanced Applicant Tracking System (ATS) using Gemini Vision Pro, 
 
 ## Getting Started
 
-**Note: There will two python file(app_vision.py and app_text.py) you must run the app_text.py file as it can read multiple pages from the PDF and is more optimized**
+**Note: There will be two Python files(app_vision.py and app_text.py) you must run the app_text.py file as it can read multiple pages from the PDF and is more optimized**
 
 1. Clone the repository.
 
