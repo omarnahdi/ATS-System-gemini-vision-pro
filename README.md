@@ -1,5 +1,5 @@
-# Gemini Pro Vision ATS System
-Welcome to Gemini Pro Vision, an advanced Applicant Tracking System (ATS) designed to elevate your job application experience. This system goes beyond traditional ATS capabilities, providing insightful feedback to enhance your resume based on the specific job description. 🚀💼
+# Application Tracking System with Gemini Vision Pro
+Welcome to an advanced Applicant Tracking System (ATS) using Gemini Vision Pro, designed to elevate your job application experience. This system goes beyond traditional ATS capabilities, providing insightful feedback to enhance your resume based on the specific job description. 🚀💼
 
 ## Features
 - **Resume Analysis**: Gemini Pro Vision thoroughly analyzes your resume, aligning it with the requirements of the job description.
